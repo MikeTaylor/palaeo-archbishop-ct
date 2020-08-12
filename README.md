@@ -6,4 +6,4 @@ This archive contains the raw results of the CT scan performed on Cervical U of 
 * [`scouts`](scouts) -- simple X-rays to get a feel for the vertebra
 * [`videos`](videos) -- short rotation videos based on simple density-based segmentation
 
-See also: [the main Archbishop description project](../palaeo-archbishop)
+See also: [the main Archbishop description project](https://github.com/MikeTaylor/palaeo-archbishop/)
