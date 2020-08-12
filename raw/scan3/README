@@ -1,0 +1,5 @@
+All the "ARCHBISHOP THE_Se10676_Im???.dcm" files are raw output of the scan.
+I stacked them using:
+	medcon -f *.dcm -c dicom -stack3d -n -qc
+to produce "m000-stacks-ARCHBISHOP THE_Se10676_Im001.dcm", which 3D
+Slicer can read (unlike the originals).
