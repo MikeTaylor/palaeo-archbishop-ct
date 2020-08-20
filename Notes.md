@@ -7,3 +7,12 @@
 > there is probably some FiJi/imageJ solution around now ? This is the place to look/ask for more:
 > https://forum.image.sc/
 
+And [3DSlicer's response](https://twitter.com/3DSlicerApp/status/1296231229352706048):
+
+> Yes, but this account is biased :Face with tears of joy:
+
+[SlicerMorph replies](https://twitter.com/SlicerMorph/status/1296276088423735298):
+
+> There are plenty of tutorials around (both from SLicer) and us. You can take a look at Day 1 contents to import imagestacks into Slicer, and Day 2 for volume rendering and segmentation intro:
+> https://github.com/SlicerMorph/S_2020/
+
