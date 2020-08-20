@@ -1,0 +1,78 @@
+Delivered-To: sauropoda@gmail.com
+Received: by 10.100.124.4 with SMTP id w4cs51677anc;
+        Wed, 31 Aug 2011 15:12:54 -0700 (PDT)
+Received: by 10.213.108.82 with SMTP id e18mr78361ebp.16.1314828773709;
+        Wed, 31 Aug 2011 15:12:53 -0700 (PDT)
+Return-Path: <mike@lists.indexdata.dk>
+Received: from kebab.indexdata.dk (kebab.indexdata.com [78.47.209.209])
+        by mx.google.com with ESMTPS id 8si6743067eez.118.2011.08.31.15.12.53
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 31 Aug 2011 15:12:53 -0700 (PDT)
+Received-SPF: neutral (google.com: 78.47.209.209 is neither permitted nor denied by best guess record for domain of mike@lists.indexdata.dk) client-ip=78.47.209.209;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 78.47.209.209 is neither permitted nor denied by best guess record for domain of mike@lists.indexdata.dk) smtp.mail=mike@lists.indexdata.dk; dkim=pass (test mode) header.i=@gmail.com
+Received: from mike by kebab.indexdata.dk with local (Exim 4.69)
+	(envelope-from <mike@lists.indexdata.dk>)
+	id 1Qyt1g-0007KI-Bp
+	for sauropoda@gmail.com; Thu, 01 Sep 2011 00:12:52 +0200
+Received: from mail-qw0-f48.google.com ([209.85.216.48])
+	by kebab.indexdata.dk with esmtps (TLS1.0:RSA_ARCFOUR_SHA1:16)
+	(Exim 4.69)
+	(envelope-from <mathew.wedel@gmail.com>)
+	id 1Qyt1a-0007K3-Hl
+	for mike@indexdata.com; Thu, 01 Sep 2011 00:12:52 +0200
+Received: by qwj9 with SMTP id 9so924578qwj.21
+        for <mike@indexdata.com>; Wed, 31 Aug 2011 15:12:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=RQdxcPAhwoyo/YgM4AXLVVE5DXxHf/I/By+RkrboXhE=;
+        b=hUO7g+xqQSzmnBMX304F9Uv2qmlF9Jw+P4FcXvo8PuRDzssjKNHFUguroTzN4CeD10
+         fE7rp/zSoiqoyH8tp7DjzdNoQsYQkPGXUhGLJjm9HHEbRqmqO/Cfhzgrs2wDEdQkJ4Or
+         mu0uG4mMlzBDxFoPc3oCBlP4kBdfvXSwE1Lfo=
+Received: by 10.224.191.133 with SMTP id dm5mr763776qab.44.1314828760112; Wed,
+ 31 Aug 2011 15:12:40 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.224.80.211 with HTTP; Wed, 31 Aug 2011 15:12:19 -0700 (PDT)
+From: Mathew Wedel <mathew.wedel@gmail.com>
+Date: Wed, 31 Aug 2011 15:12:19 -0700
+Message-ID: <CADG7HNTaqeAZnE07x-KOOSg9qU5xW=dZygN9y80kn22G3O6P2Q@mail.gmail.com>
+To: Mike Taylor <mike@indexdata.com>
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on kebab.indexdata.dk
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 required=3.5 tests=AWL,BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_LOW,SPF_PASS autolearn=disabled version=3.2.5
+Subject: Archbishop ASP
+X-SA-Exim-Connect-IP: <locally generated>
+X-SA-Exim-Mail-From: mike@lists.indexdata.dk
+X-SA-Exim-Scanned: No (on kebab.indexdata.dk); SAEximRunCond expanded to false
+Content-Type: text/plain; charset=ISO-8859-1
+
+Come to think of it, I have no idea why I'm sending you this instead of
+withholding it until you reply to the rhea thread. Guess I'm just a
+soft-hearted fool.
+
+Anyway, using the attached image I got 12,258 gray pixels / (12,258 + 36809
+white) = 0.2498. So it seems that your eyeball ASP-o-meter is a lot better
+than mine, since you said 20-30% and I said 17%. Still pretty darned low for
+a neosauropod!
+
+Best,
+
+Matt
+
+-- 
+Mathew J. Wedel
+College of Osteopathic Medicine of the Pacific and
+College of Podiatric Medicine
+Western University of Health Sciences
+309 E. Second Street
+Pomona, CA 91766-1854
+http://sauroposeidon.wordpress.com/ <http://www.sauroposeidon.net/>
+http://svpow.wordpress.com
+
+"To put yourself forward as someone good enough to do interesting things is,
+by definition, to expose yourself to all kinds of negative judgments, and as
+far as I can tell, the fact that other people get to decide what they think
+of your behavior leaves only two strategies for not suffering from those
+judgments: not doing anything, or not caring about the reaction."
+--Clay Shirky
